@@ -1,0 +1,28 @@
+{
+  "name": "shopping-list",
+  "version": "1.0.0",
+  "description": "Electron-TutorialApp",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package-mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/icons/mac/icon.icns --prune=true --out=release-builds",
+    "package-win": "electron-packager . electron-tutorial-app --overwrite --asar --platform=win32 --arch=ia32 --icon=assets/icons/win/icon.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"Shopping List\"",
+    "package-linux": "electron-packager . electron-tutorial-app --overwrite --asar=true --platform=linux --arch=x64 --icon=assets/icons/png/icon.png --prune=true --out=release-builds"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swappea/Electron-TutorialApp.git"
+  },
+  "author": "Swapnesh Sangle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Swappea/Electron-TutorialApp/issues"
+  },
+  "homepage": "https://github.com/Swappea/Electron-TutorialApp#readme",
+  "dependencies": {
+    "electron": "^5.0.7"
+  },
+  "devDependencies": {
+    "electron-packager": "^14.0.2"
+  }
+}
