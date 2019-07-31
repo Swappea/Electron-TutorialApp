@@ -27,6 +27,6 @@ Installation1
 
 
 
-#### Installation2 (#installation2)
+#### Installation2
 - blah blah 2
 
