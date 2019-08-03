@@ -1,38 +1,184 @@
-# Electron-TutorialApp
-Electron-TutorialApp
+# Angular 8 Cascading Dropdown
 
-[Installation1](#installation1)
-[Installation2](#installation2)
+Angular 8 Cascading Dropdown Component for web applications. Dynamic and easy to use.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+## Table of Contents
 
-Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+##### 1. Getting Started
 
-1914 translation by H. Rackham
-"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+##### 2. Installation (#installation)
 
-Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+##### 3. Usage (#usage)
 
-1914 translation by H. Rackham
-"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+##### 4. Settings
 
-<h4 id="installation1">
-Installation1
-</h4>
-- blah blah 1 1914 translation by H. Rackham
-"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?""Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+##### 5. Events
 
-Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?""Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+## Getting Started
 
-Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+### Installation
 
+- The Cascading Dropdown Dropdown package is published on the [npm](https://www.npmjs.com/package/ng-cascading-dropdown-lib) Registry.
+- Install the package :
+  `npm install ng-cascading-dropdown-lib`
 
+### Demo Url
+https://swappea.github.io/ng-cascading-dropdown-lib/
 
-#### Installation2
-- blah blah 2
+### Usage
 
+Import `NgCascadingDropdownLibModule` into `NgModule` in `app.module.ts`. Angular's `FormsModule` is also required.
+
+```js
+import { NgCascadingDropdownLibModule } from 'ng-cascading-dropdown-lib';
+import { FormsModule } from '@angular/forms';
+
+@NgModule({
+  // ...
+  imports: [
+    NgCascadingDropdownLibModule,
+    FormsModule
+  ]
+  // ...
+})
+
+```
+
+Declare the component data variables and default options in your component where you want to consume the dropdown component.
+
+```js
+import { Component, OnInit } from "@angular/core";
+
+export class AppComponent implements OnInit {
+  defaultTestData = [];
+  defaultDropdownData = [];
+
+  ngOnInit() {
+    this.defaultTestData = [
+      {
+        id: 1,
+        grpName: "Asia",
+        parentGroupID: null
+      },
+      {
+        id: 2,
+        grpName: "North America",
+        parentGroupID: null
+      },
+      {
+        id: 3,
+        grpName: "Europe",
+        parentGroupID: null
+      },
+      {
+        id: 4,
+        grpName: "India",
+        parentGroupID: 1
+      },
+      {
+        id: 5,
+        grpName: "Pakistan",
+        parentGroupID: 1
+      },
+      {
+        id: 6,
+        grpName: "China",
+        parentGroupID: 1
+      },
+      {
+        id: 7,
+        grpName: "USA",
+        parentGroupID: 2
+      },
+      {
+        id: 8,
+        grpName: "Germany",
+        parentGroupID: 3
+      },
+      {
+        id: 9,
+        grpName: "Maharashtra",
+        parentGroupID: 4
+      },
+      {
+        id: 10,
+        grpName: "Texas",
+        parentGroupID: 7
+      },
+      {
+        id: 11,
+        grpName: "Bayern",
+        parentGroupID: 8
+      },
+      {
+        id: 12,
+        grpName: "Mumbai",
+        parentGroupID: 9
+      },
+      {
+        id: 13,
+        grpName: "Dallas",
+        parentGroupID: 10
+      },
+      {
+        id: 14,
+        grpName: "Munich",
+        parentGroupID: 11
+      }
+    ];
+
+    defaultDropdownData = [
+      "Select Continent",
+      "Select Country",
+      "Select State",
+      "Select City"
+    ];
+  }
+  notifyFinalDropDownValue(event) {
+    console.log("FINAL VALUE", event);
+  }
+
+  notifyDropDownValue(event) {
+    console.log("ALL SELECTIONS", event);
+  }
+}
+```
+
+Add the following component tag in you template
+
+```html
+<ng-cascading-dropdown
+  [inputCascadingData]="defaultTestData"
+  [defaultSelectionData]="defaultDropdownData"
+  [showDefaultSelection]="true"
+  (notifyDropDownValue)="notifyDropDownValue($event)"
+  (notifyFinalDropDownValue)="notifyFinalDropDownValue($event)"
+>
+</ng-cascading-dropdown>
+```
+
+### Settings
+
+The following list of settings are supported by the component. Configure the settings to meet your requirement.
+
+| Setting              | Type    | Description                                                  | Default Value |
+| :------------------- | :------ | :----------------------------------------------------------- | :------------ |
+| inputCascadingData   | Array   | Input Data for cascading dropdown                            | [ ]           |
+| defaultSelectionData | Array   | Text to be show in the dropdown, when no items are selected. | [ ]           |
+| showDefaultSelection | Boolean | Show the default text for Dropdown                           | false         |
+| disableDropdown      | Boolean | Disable the Cascading Dropdown                               | false         |
+
+### Events
+
+- `notifyDropDownValue` - Returns all the selections for all dropdown
+  Example : (notifyDropDownValue)="notifyDropDownValue(\$event)"
+- `notifyFinalDropDownValue` - Return the final selected item
+  Example : (notifyFinalDropDownValue)="notifyFinalDropDownValue(\$event)"
+
+## Run locally
+
+- Clone the repository or downlod the .zip,.tar files.
+- Run `npm install`
+- Run `ng serve` for a dev server
+- Navigate to `http://localhost:4200/`
+  The app will automatically reload if you change any of the source files.
