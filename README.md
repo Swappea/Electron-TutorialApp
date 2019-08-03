@@ -9,7 +9,7 @@ Angular 8 Cascading Dropdown Component for web applications. Dynamic and easy to
 - [Usage](#usage)
 - [Settings](#settings)
 - [Events](#events)
-- Run locally(#runlocally)
+- [Run locally](#runlocally)
 
 ## Getting Started
 
