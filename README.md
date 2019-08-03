@@ -4,15 +4,12 @@ Angular 8 Cascading Dropdown Component for web applications. Dynamic and easy to
 
 ## Table of Contents
 
-##### 1. Getting Started
-
-##### 2. Installation (#installation)
-
-##### 3. Usage (#usage)
-
-##### 4. Settings
-
-##### 5. Events
+- [Getting Started] (#gettingstarted)
+- [Installation]  (#installation)
+- [Usage] (#usage)
+- [Settings] (#settings)
+- [Events] (#events)
+- [Run locally] (#runlocally)
 
 ## Getting Started
 
